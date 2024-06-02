@@ -1,0 +1,45 @@
+<DOCTYPE html>
+<HTML>
+<body bgcolor="lightcyan">
+<head>
+<title>Practica 4 Receta de sushi tradicional</title>
+</head>
+<center>
+<h1><font face="times" color="deeppink"><u>Sushi tradicional</u></font></h1><br>
+<img src="/D:\DAW\Actividad 5 Lara Soto Adilene 4BPM\IMAGENES/SUSHI.jpg">
+</center>
+<h2><font face="book antigua" color="darkmagenta"><font color="red">Lista de ingredientes:</font><br>
+<ul>
+<li><font color="black">150-200 gramos</font>Arroz de sushi</li>
+<li><font color="black">Un chorrito</font>Vinagre de arroz</li>
+<li><font color="black">Al gusto</font>Hojas de alga nori</li>
+<li><font color="black">Un chorrito</font>Salsa de soja</li>
+<li><font color="black">Al gusto</font>Wasabi</li>
+<li><font color="black">Para el relleno</font>pesados (salmon, atun, palitos de surimi, langostinos cocidos, etc)</li>
+<li><font color="black">Verduras</font>Pepino, zanahoria, aguacate, mango</li>
+<li><font color="black">Como material</font>Esterilla de bambu para enrollar los rollos de sushi</li>
+</ul>
+</font></h2>
+<center>
+<H2> proceso:</H2><br>
+<font face="arial" color="blue" size="6">
+Lo primero que haremos será poner el arroz en un colador y aclararlo varias veces con agua muy fría, hasta que ésta salga clara, para eliminar todo el almidón.<font color="black">Cuando lo tengamos listo, lo hervimos usando la misma cantidad de agua que arroz</font><br>
+Primero ponemos el arroz a fuego medio durante un par de minutos y despues bajamos el fuego al minimo y dejamos hervir durante 10 minutos.<font color="black">Mientras el arroz reposa, vamos preparando el SUSHI-ZU, que es el aderezo de vi nagre que le añadiremos despues. La mezcla se compone de vinagre de arroz, azucar y sal, en una proporcion de 5: 3: 1, o sea, por cada 5 partes de vinagre, ponemos 2 de azucar y una de sal.</font><br>
+Preparados ya el arroz y la mezcla, esparcimos el arroz ya hervido en una bandeja o recipiente, prferentemente de madera, y lo mezclamos con el aderezo que hemos hecho usando una paleta de madera tambien.</font><br>
+Para preparar el relleno, cortamos los ingredientes que hemos elegido en tiras longitudinales finas y lo mas similares posibles.<font color="black">Los pescados pueden ser crudos marinados o semi-cocinados, al gusto y las verduras se suelen poner crudas.</font><br>
+Para hacer los rollos, extendemos la esterilla de bambu sobre una superficie plana y la cubrimos con film de plastico.<font color="black">Sobre ella colocamos una lamina de alga nori con la parte mas brillante hacia abajo y las rayas de forma perpendicular.</font><br>
+Con las manos humedecidas en agua, cogemos arroz y lo distribuimos de manera uniforme, creando una capa de arroz de un centimetro de espesor</font><br>
+Una vez preparada la base, colocamos el relleno centrado en la parete inferior de alga nori<font color="black">Para formar el rollo, con un movimiento rapido, cogemos la parte inferior de la esterilla y envolvemos los ingredientes y el arroz con ella haciendo un rulo. mientras vamos presionando ligeramente.</font><br>
+Una vez hecho esto, cortamos el rollo de una pasada firme en 6 a 8 porciones iguales.<font color="black">Preparamos la salsa de soja y el wasabi para aderezar y mojar las piezas.</font>
+</center>
+
+<td><b><h3><a target="_blanck" href="file:///D:/DAW/Actividad%204%20Lara%20Soto%20Adilene%204BPM/practica%203.HTML"><font color="green">ATRAS</font></a></h3></b></td>
+<td><b><h3><a target="_blanck" href=""><font color="blue">MENU</font></a></h3></b></td>
+<td><b><h3><a target="_blanck" href="file:///D:/DAW/Actividad%206%20Lara%20Soto%20Adilene%204BPM/practica%205.html"><font color="yellow">SIGUIENTE</font></a></h3></b></td>
+
+<H6 align=right><font face="calibri" color="blue">Alumn@: Lara Soto Adilene</font>
+<font color="black">Grupo: 4BPM</font></h6>
+<h6 align=right><font face="calibri" color="red">Materia: Desarrolla de Aplicaciones Web</font><font color="blue">Fecha:16/02/24</font></h6>
+<hr>
+</body>
+</html>

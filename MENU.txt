@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="F:\DAW\MENUSERVER/menu.css" media="all">
+</head>
+<html>
+<nav class="nav">
+  <input id="menu" type="checkbox">
+  <label for="menu">Menu</label>
+  <ul class="menu">
+    <li>
+      <a href="#0">
+        <span>Parcial 2</span>
+        <i class="fas fa-address-card" aria-hidden="true"></i>
+      </a>
+    </li>
+    <li>
+      <a href="#0">
+        <span>Parcial 1</span>
+        <i class="fas fa-tasks" aria-hidden="true"></i>
+      </a>
+    </li>
+    <li>
+      <a href="#0">
+        <span>Parcial 3</span>
+        <i class="fas fa-users" aria-hidden="true"></i>
+      </a>
+    </li>
+  </ul>
+</nav>
+<footer class="page-footer">
+  <span>Integrantes:ledesma alondra, lara adilene, <br>lopez sanchez allison, luna perez mariana,<br> mireles diego fatima Equipo 6</span>

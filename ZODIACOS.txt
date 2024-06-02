@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Practica 10 signos del Zodiaco.</title>
+</head>
+<body background="D:\DAW\Actividad 11 Lara Soto Adilene 4BPM\GIF/fondo.gif">
+<h1><center><font color="blue" face="minion" size="20"><u><marquee>SIGNOS DEL ZODIACO.</marquee></u></font></center></h1>
+<hr>
+<font face="didot" color="purple">
+<table border="1" align="center" width="60%" bgcolor="white">
+<tr>
+<td><b>SIGNO</b></td>
+<td><b>DEL</b></td>
+<td><b>AMOR</b></td>
+<td><b>DINERO</b></td>
+<td><b>TRABAJO</b></td>
+<td><b>NUMERO</b></td>
+<td><b>SALUD</b></td>
+</tr>
+<tr>
+<td><img src="D:\DAW\Actividad 11 Lara Soto Adilene 4BPM\GIF/acuario.gif" whith="100" height="100"></td>
+<td>20 DE ENERO-18 DE FEBRERO</td>
+<td>Surge una sorpresa en su vida amorosa.</td>
+<td>Ayudará económicamente a alguien muy cercano.</td>
+<td>Un problema laboral que puede surgir se solucionará bien.</td>
+<td>14 19 4 35 26 43</td>
+<td>No fuerce su organismo.</td>
+</tr>
+<tr>
+<td><img src="D:\DAW\Actividad 11 Lara Soto Adilene 4BPM\GIF/piscis.gif" whith="100" height="100"></td>
+<td>19 DE FEBRERO-20 DE MARZO</td>
+<td>No se enfade con aquellos que se opongan a sus deseos.</td>
+<td>Piense en los beneficios a largo plazo y no toque su cuenta. </td>
+<td>La entrada de un trabajo nuevo le absorberá.</td>
+<td>5 41 31 46 14 49</td>
+<td>Cuidado con los accidentes domésticos.</td>
+</tr>
+<td><img src="D:\DAW\Actividad 11 Lara Soto Adilene 4BPM\GIF/aries.gif" whith="100" height="100"></td>
+<td>21 DE MARZO-19 DE ABRIL</td>
+<td>Nuevo idilio con alguien muy joven</td>
+<td>Jornada poco propicia para realizar gestiones financieras.</td>
+<td>Sea positivo, los problemas laborales no deben superarle.</td>
+<td>53 45 43 47 41 23</td>
+<td>No escatime gastos a la hora de invertir en su cuerpo.</td>
+</tr>
+<td><img src="D:\DAW\Actividad 11 Lara Soto Adilene 4BPM\GIF/tauro.gif" whith="100" height="100"></td>
+<td>20 DE ABRIL-20 DE MAYO</td>
+<td>Corre el riesgo de tener problemas con su pareja.</td>
+<td>Controle su maltrecha economía.</td>
+<td>Las ofertas profesionales se multiplican.</td>
+<td>36 55 18 15 34 16</td>
+<td>Los problemas de salud serán causados por sus excesos.</td>
+</tr>
+<td><img src="D:\DAW\Actividad 11 Lara Soto Adilene 4BPM\GIF/geminis.gif" whith="100" height="100"></td>
+<td>21 DE MAYO-20 DE JUNIO</td>
+<td>En el amor, su sensibilidad le hará vivir intensamente esa nueva relación.</td>
+<td>En los juegos de azar, tiene la suerte de cara.</td>
+<td> A pesar de las numerosas tareas laborales, sale airoso.</td>
+<td>11 43 10 16 46 21</td>
+<td>Los dulces gustan pero luego pesan.</td>
+</tr>
+<td><img src="D:\DAW\Actividad 11 Lara Soto Adilene 4BPM\GIF/cancer.gif" whith="100" height="100"></td>
+<td>21 DE JUNIO-22 DE JULIO</td>
+<td>Tiene que renovar una parte de su círculo amistoso.</td>
+<td>Los asuntos económicos marcharán mejor.</td>
+<td> Su estado de ánimo se va a reflejar también en el trabajo.</td>
+<td>22 49 47 51 46 26</td>
+<td>Su fuerza de voluntad le mantendrá muy sano.</td>
+</tr>
+<td><img src="D:\DAW\Actividad 11 Lara Soto Adilene 4BPM\GIF/leo.gif" whith="100" height="100"></td>
+<td>23 DE JULIO-22 DE AGOSTO</td>
+<td>Se sentirá optimista y activo en las relaciones familiares.</td>
+<td>Si ahorra, pronto podrá hacer esa compra deseada.</td>
+<td> En el trabajo, se verá inmerso en una discusión inesperada.</td>
+<td>33 54 29 45 31 14</td>
+<td>Busque una actividad que le permita canalizar sus tensiones.</td>
+</tr>
+<td><img src="D:\DAW\Actividad 11 Lara Soto Adilene 4BPM\GIF/virgo.gif" whith="100" height="100"></td>
+<td>23 DE AGOSTO-22 DE SEPTIEMBRE</td>
+<td>La incertidumbre reinará en el plano sentimental</td>
+<td>Quizá un amigo le dé interesantes sorpresas económicas.</td>
+<td>El trabajo será el centro de sus actividades.</td>
+<td>53 37 39 2 30 23</td>
+<td>Propensión a sentir ansiedad; caminar le serenará</td>
+</tr>
+<td><img src="D:\DAW\Actividad 11 Lara Soto Adilene 4BPM\GIF/libra.gif" whith="100" height="100"></td>
+<td>23 DE SEPTIEMBRE-22 DE OCTUBRE</td>
+<td>Puede que surja un romance en el entorno laboral</td>
+<td>Venza esa manía de enamorarse de lo que está rebajado.</td>
+<td>La competencia es muy agresiva, esfuércese en su trabajo.</td>
+<td>8 42 21 31 2 35</td>
+<td>Buen momento para encontrar soluciones a sus dolores.</td>
+</tr>
+<td><img src="D:\DAW\Actividad 11 Lara Soto Adilene 4BPM\GIF/escorpio.gif" whith="100" height="100"></td>
+<td>23 DE OCTUBRE-21 DE NOVIEMBRE</td>
+<td>Día de intenso romanticismo.</td>
+<td>Momento idóneo para vender una casa.</td>
+<td>Tendrá la mente centrada en su trabajo; eso le favorece.</td>
+<td>28 25 31 54 14 34</td>
+<td>Búsquese un hueco y abandone sus costumbres sedentarias.</td>
+</tr>
+<td><img src="D:\DAW\Actividad 11 Lara Soto Adilene 4BPM\GIF/sagitario.gif" whith="100" height="100"></td>
+<td>22 DE NOVIEMBRE-21 DE DICIEMBRE</td>
+<td>Las suspicacias con su pareja no son adecuadas.</td>
+<td>Equilibre su economía.</td>
+<td>Buen día para emprender nuevas actividades profesionales</td>
+<td>39 30 12 33 14 20</td>
+<td>Hoy se sentirá relajado y feliz.</td>
+</tr>
+<td><img src="D:\DAW\Actividad 11 Lara Soto Adilene 4BPM\GIF/capricornio.gif" whith="100" height="100"></td>
+<td>22 DE DICIEMBRE-19 DE ENERO</td>
+<td>Si chatea en internet es posible que hoy encuentre pareja.</td>
+<td>En el aspecto económico vive una jornada boyante.</td>
+<td>Defienda sus posturas en el trabajo, pero sin agresividad.</td>
+<td>30 53 40 44 1 45</td>
+<td> Los nervios se adueñan de toda su energía.</td>
+</tr>
+</table>
+</font>
+<center>
+<a target="_blanck" href="https://www.elcomercio.es/sociedad/horoscopo-diario-martes-marzo-2024-predicciones-amor-20240305233505-nt.html" title="IR A LA PAGINA OFICIAL DEL HOROSCOPO">
+<b>12 SIGNOS ASTROLOGICOS</b>
+</center>
+<hr>
+<table align="center">
+<tr>
+
+<td><b><h3><a target="_blanck" href="file:///D:/DAW/Actividad%2010%20Lara%20Soto%20Adilene%204BPM/autobiografia.html"><font color="green">ATRAS</font></a></h3></b></td>
+<td><b><h3><a target="_blanck" href="file:///D:/DAW/Actividad%2012%20Lara%20Soto%20Adilene%204BPM/practica%2011.html"><font color="blue">MENU</font></a></h3></b></td>
+
+</tr>
+</table><br>
+<h6><center><marquee><u><font face="castellar" color="white">ALUMN@: LARA SOTO ADILENE GRUPO:4BPM</font></u></marquee></center></h6>
+<h6><center><marquee><u><font face="castellar" color="white">MATERIA: DESARROLLO DE APLICACIONES WEB FECHA:05/03/2024</font></u></marquee></center></h6>
+<hr>
+</body>
+</html>

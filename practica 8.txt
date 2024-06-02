@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<body bgcolor="lightcyan">
+<head>
+<title>Practica 8 Dia Festivo</title>
+</head>
+<center>
+<h1><font face="times" color="purple"><u>8 DE DICIEMBRE</u></font></h1><br>
+<img src="E:\DAW\Actividad 9 Lara Soto Adilene 4BPM\IMAGENES/nochebuena.jpg">
+<h1><font face="times" color="purple">DIA NACIONAL DE LA NOCHEBUENA</font></h1><br>
+</center>
+<p align="left"><font face="optima" color="darkgreen">INTRODUCCION</font>
+<font face="optima" color="green" size "4">Euphorbia pulcherrima, conocida comunmente como la flor de pascua, flor de noche buena<br>
+flor de navidad o cuetlaxochitl, entre otros.<br>
+Es una especie de la familia Euphorbiaceae nativa de Mexico y Centroamerica<br>
+Se utiliza frecuentemente en jardineria como arbusto, pero principalmente<br>
+en floricultura como planta de interior en navidad.<br>
+Existen mas de 100 variedades cultivadas de esta especie</p>
+<img src="E:\DAW\Actividad 9 Lara Soto Adilene 4BPM\IMAGENES/arbusto.jpg">
+<center>
+<font color="darkblue" face="didot"><font color="blue">HISTORIA</font><br>
+El codice florentino, en el siglo XVI, se refiere su uso para "las mujeres que tienen poca leche"<br>
+En el mismo siglo, Francisco Hernandez de Toledo relata que las hojas aumentan la leche a las nodrizas, aun a las ancianas<br>
+sea que se las coman crudas o cocidas, o que laman el latex que mana de ellas<br>
+En el siglo XX, la Sociedad Farmaceutica de Mexico la menciona como<br>
+depilatoria, emenagoga, galactogena y resolutiva<br>
+Finalmente, Maximo Martinez consigna la misma informacion proporcionada por la Sociedad Mexicana de Historia Natural</p>
+<video src="E:\DAW\Actividad 9 Lara Soto Adilene 4BPM\VIDEOS/NOCHEBUENA.mp4" width="400" height="400">
+</center>
+<p align="right"><font color="magenta" face="calibri"><font color="darkmagenta">DE DONDE VIENE LA TRADICION</font><br>
+En Mexico, la SADER y los integrantes del sistema Producto<br>
+Ornamentales impulsaron la institucionalizacion del 8 de<br>
+Diciembre como Dia Nacional de la Nochebuena cuetlaxochitl<br>
+En esta fecha, cada año se llevan a cabo conferencias<br>
+eventos culturales, exhibicion y venta de este arbusto en <br>
+varios estados de Republica Mexicana</font></p>
+<gif src="E:\DAW\Actividad 9 Lara Soto Adilene 4BPM\GIF/flornochebuena.gif">
+<hr>
+<h3><font face="didot" color="darkgreen">CARACTERISTICAS DE LA NOCHEBUENA</font></h3>
+<ul>
+<li>Es un pequeño arbusto caducifolio poco ramificado
+<li>Puede alcanzar hasta los 4 metros de altura
+<li>Hojas lanceoladas u ovaladas-elipticas
+<li>Tallos gruesos y lisos
+<li>De cada ciato surge una glandula bilabiada de color amarillo
+<li>Florece en invierno
+<li>Se considera una de las flores exoticas mas elegantes
+<li>Su origen es centroamerica y Mexico
+<li>Se considera una planta que simboliza a la navidad
+<li>Sus hojas son llamativas color rojo
+<li>Puede vivir hasta un año con los cuidados necesarios
+</ul>
+<center>
+<font color="magenta" face="times"><font color="red">
+La flor de nochebuena celebra su dia nacional cada<br>
+8 de Diciembre y posee una gran importancia biocultural<br>
+para el pais. Pero antes de convertirse en la flor mas<br>
+representativa de la Navidad, la planta paso por una serie<br>
+de cambios que van desde sus usos en la vida cotidiana, hasta<br>
+el simbolismo que se le asignoen sus distintas epocas</font><br>
+Actualemte, su importancia es tan grande que en el pais<br>
+hay 429 sitios que llevan en su nombre la palabra<br>
+'nochebuena', en su mayoria vialidades y asentamientos urbanos,<br>
+segun el registro de nombre geograficos del<br>
+Instituto Nacional de Estadistica y Geografia (INEGI).</font>
+</center>
+<hr>
+<table border="1" bgcolor="yellow"><font face="darkblue">
+<thead>
+<tr>
+<th>DE DONDE ES?</th>
+<th>CUAL ES SU COLOR?</th>
+<th>SU TEMPORADA ES</th>
+</tr>
+</thead>
+<thbody>
+<tr>
+<td>Mexico</td>
+<td>Rojo</td>
+<td>Invierno</td>
+</tr>
+</thbody>
+</table>
+</font>
+<hr>
+<img src="E:\DAW\Actividad 9 Lara Soto Adilene 4BPM\IMAGENES/flor.jpg">
+
+<td><b><h3><a target="_blanck" href="file:///D:/DAW/Actividad%208%20Lara%20Soto%20Adilene%204BPM/Practica%207.html"><font color="green">ATRAS</font></a></h3></b></td>
+<td><b><h3><a target="_blanck" href=""><font color="blue">MENU</font></a></h3></b></td>
+<td><b><h3><a target="_blanck" href="file:///D:/DAW/Actividad%2010%20Lara%20Soto%20Adilene%204BPM/autobiografia.html"><font color="yellow">SIGUIENTE</font></a></h3></b></td>
+
+<h6 align=right><font face="calibri" color="purple">Alumn@: Lara Soto Adilene  Fecha;27/02/2024</font></h6>
+<h6 align=right><font face="calibri" color="purple">Grupo:4BPM  MATERIA: DESARROLLO DE APLICACIONES WEB</font></h6>
+<hr>
+</head>
+</html>
